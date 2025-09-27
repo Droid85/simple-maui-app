@@ -1,0 +1,66 @@
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.ide
+*.ncb
+*.opensdf
+*.sdf
+*.VC.db
+
+# Build results
+bin/
+obj/
+AppPackages/
+*.appx
+*.appxbundle
+*.msix
+*.msixbundle
+*.nupkg
+*.snupkg
+
+# Visual Studio / Rider / IDE
+.vs/
+.vscode/
+.idea/
+
+# Mac / Linux specific
+*.DS_Store
+*.Thumbs.db
+
+# NuGet
+*.nupkg
+.nuget/
+packages/
+
+# Xamarin / MAUI
+*.xaml.g.cs
+*.g.i.cs
+*.i.cs
+*.g.cs
+
+# MAUI build artifacts
+*.apk
+*.aab
+*.ipa
+*.app
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+*.build/
+*.log
+
+# Rider
+.idea/
+
+# Logs
+*.log
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Temporary files
+*.tmp
+*.temp
